@@ -19,8 +19,6 @@ References:
 - [SearXNG Official Website](https://docs.searxng.org/)  
 - [Self-Hosting an Open-Source SearXNG Meta-Search Engine to Search Google, DuckDuckGo, and More at Once](https://ivonblog.com/posts/self-hosting-searxng-docker-instance/)
 
-Here is the translation of the provided Markdown text from Traditional Chinese to English:
-
 ## Purpose
 
 This MCP server demonstrates an SSE-based MCP server (integrated with SearXNG and Microsoft's markdownify to extract web pages into Markdown-formatted text) and its operational mode using the [MCP Inspector](https://modelcontextprotocol.io/docs/tools/inspector) (MCP client).
@@ -44,10 +42,6 @@ $ cd mcp-searxng
 
 $ uv sync
 ```
-
-Here is the translation of the provided Markdown text from Traditional Chinese to English:
-
----
 
 ## Running the Service
 
